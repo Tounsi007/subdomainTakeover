@@ -12,7 +12,7 @@ In Google you have more information.
 
 # List
 
-| Service | Error Page | Discussion | How to  takeover ? |
-| ---------- | ---------- | ---------- | ---------- |
-| Frontify   | `404 - Page not found. Oops... look like you got lost.`   |Campo B0   |Campo B0   |
+| Service | Error Page | Discussion | How to  takeover ? | Support Page |
+| ---------- | ---------- | ---------- | ---------- |---------- |
+| Frontify   | `404 - Page not found. Oops... look like you got lost.`   |TEST  |TEST  |[Help Frontify](https://help.frontify.com)|
                
