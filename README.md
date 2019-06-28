@@ -12,7 +12,7 @@ In Google you have more information.
 
 # List
 
-| Service | Error Page | Discussion | How to  takeover ? | Support Page |
+| Service | Error Page | Discussion | How to  takeover | Support Page |
 | ---------- | ---------- | ---------- | ---------- |---------- |
-| Frontify   | `404 - Page not found. Oops... look like you got lost.`   |TEST  |TEST  |[Help Frontify](https://help.frontify.com)|
+| Frontify   | `404 - Page not found. Oops... look like you got lost.`   |TEST  | [Guide](https://github.com/robotshell/subdomainTakeover/wiki/Subdomain-Takeover-Frontify)  |[Help Frontify](https://help.frontify.com)|
                
