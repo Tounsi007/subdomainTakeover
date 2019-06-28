@@ -14,5 +14,5 @@ In Google you have more information.
 
 | Service | Error Page | Discussion | How to  takeover | Support Page |
 | ---------- | ---------- | ---------- | ---------- |---------- |
-| Frontify   | `404 - Page not found. Oops... look like you got lost.`   |TEST  | [Guide](https://github.com/robotshell/subdomainTakeover/wiki/Subdomain-Takeover-Frontify)  |[Help Frontify](https://help.frontify.com)|
-               
+| Frontify   | `404 - Page not found. Oops... look like you got lost.`   |[ Frontify Issues](https://github.com/robotshell/subdomainTakeover/issues/1)  | [Guide](https://github.com/robotshell/subdomainTakeover/wiki/Subdomain-Takeover-Frontify)  |[Help Frontify](https://help.frontify.com)|
+     
